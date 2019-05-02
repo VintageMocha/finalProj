@@ -1,0 +1,65 @@
+/* this style will apply to the whole body... */
+
+@media only screen and (min-width: 400px){
+    .banner {
+        width: 1366px;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: #FFB8B3;
+        font-size: 90px;
+        text-align: center;
+    }
+
+}
+
+    
+
+.colorscheme {
+    color: #FFB8B3;
+    color: #E8A2B5;
+    color: #FFBFF0;
+    color: #DEA2E8;
+    color: #DFB3FF;
+}
+.a {
+    color: #5C3D7F
+}
+.container {
+    margin: 0 auto;
+    width: 1366px;
+    height: 768px;
+    background-color: #FFBFF0;
+
+}
+.banner {
+    width: 1366px;
+    height: 215px;
+    float: left;
+    color: black;
+    background-color: #FFB8B3;
+    font-size: 90px;
+    text-align: center;
+}
+.nav {
+    width: 215px;
+    height: 553px;
+    float: left;
+    background-color:#DFB3FF;
+
+}
+.content {
+    width: 1121px;
+    height: 523px;
+    background-color: #FFBFF0;
+    float: left;
+    padding: 15px;
+}
+.testDiv {
+    width: 200px;
+    height: 200px;
+    background-color: #E8A2B5;
+    float: right;
+    padding: 15px;
+}
+
