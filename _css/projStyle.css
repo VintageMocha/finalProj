@@ -56,7 +56,7 @@ body, html {
 
 
 
-/* ################### BACKGROUND/INTRO SCREEN ######################## */
+/* ################### BACKGROUND/INTRO SCREEN - code modified from w3schools ######################## */
 .parallax { 
     /* The image used */
     background-image: url("../_images/desktopBG.jpg");
@@ -92,7 +92,7 @@ body, html {
   height:80px;
   font-size:40px;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 40px;
   padding-bottom: 50px;
   font-family: sans-serif;
   color: #32292F;
@@ -137,6 +137,8 @@ display: flex;
   font-family: 'ubuntu';
   color: #32292F;
 }
+
+/* ####################################### BUTTONS - from w3schools ########################################### */
 .button1 {
   background-color: #FFEEB7; 
   border-color: #D3A588;
