@@ -1,9 +1,11 @@
+// "AD SPACE" //
+
 document.getElementById("imageClick").onclick = function() {myFunction()};
 
 function myFunction() {
-  document.getElementById("imageClick").innerHTML = "Congratulations, you found my javascript";}
+  document.getElementById("imageClick").innerHTML = "Buy my art lol";}
 
 document.getElementById("secondImageClick").onclick = function() {onClickImage()};
 
 function onClickImage() {
-  document.getElementById("secondImageClick").innerHTML = "This is a differently written function! Javascript still kinda makes no sense to me"};
+  document.getElementById("secondImageClick").innerHTML = "also please buy my art even if these are filler images"};
