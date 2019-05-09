@@ -8,6 +8,9 @@
 
 @media only screen and (min-width: 290px) {
 
+  /* this responsiveness if unfinished. I spent a lot of time coding stuff for the primary resolution, though, the page
+  IS programmed to remove all CSS styling when under 1100 pixels in width. */
+
 }
 /* #################################### ANIMATION / COMPUTER FORMAT ################################################# */
 @media only screen and (min-width: 1100px) {
