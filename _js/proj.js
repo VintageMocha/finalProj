@@ -4,18 +4,20 @@ var myArray = ["joker1.png", "illustrationexample.jpg", "mcreeGif.gif", "mercyGi
 
 function randomNumber () {
   var randNum = Math.floor(Math.random()*(10)+1);
-  return randNum;
+  return randNum
 }
+
+// Handy Dandy RNG!
 
 function logNumber () {
   var randNum = randomNumber();
-  if(randNum == 1, 2, 3, 4, 5, 6, 7, 8, 9, 10) {
+  if(randNum == 1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
     console.log('You rolled a dice!')
-    console.log(randNum)
-  }
+    console.log(randNum);
 }
 
 logNumber();
+
 
 //just so that there's some finished javascript - i cant' get the RNG to freakin' work..
 
